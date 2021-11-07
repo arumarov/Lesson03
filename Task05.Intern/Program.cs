@@ -2,7 +2,7 @@
 int f (int a)
 {
     int y = a;
-    return y;
+    return (y*y);
 }
 
 int a = 5;
