@@ -28,3 +28,8 @@ double a;
 string s = Console.ReadLine();
 a = Convert.ToInt32(s);
 Console.WriteLine(Math.Pow(a,2));
+
+// Четвертое решение от преподавателя (ввод с клавиатуры)
+double a;
+a = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine(Math.Pow(a,2));
